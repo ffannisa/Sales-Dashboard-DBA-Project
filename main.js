@@ -1,3 +1,5 @@
+//Highcharts Charting
+
 // Showing Sales Order with Forecasting graph
 $(function () {
 
